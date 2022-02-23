@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h5{
+    display: inline-block;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+h1{
+    color: #f8662b;
+}
+.btn{
+   background-color: #24207f ;
+   color:white;
+}
+.btn:hover{
+    color:white;
+}
+
+.btn-save{
+    background-color: #41c295;
+}
+p{
+    color:red;
+}
+
+#incomeError {
+    display: none;
+}
+#foodError {
+    display: none;
+}
+#rentError {
+    display: none;
+}
+#clothError {
+    display: none;
+}
+#saveError{
+    display:none;
+}
+#saveValidError{
+    display:none;
+}
+#balanceError{
+    display: none;
+}
+
